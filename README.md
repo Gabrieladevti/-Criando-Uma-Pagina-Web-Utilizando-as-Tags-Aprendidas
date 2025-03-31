@@ -1,4 +1,4 @@
-# Desafio de Projeto: Website Básico com HTML
+# Website Básico com HTML
 
 ## 📌 Descrição
 Este projeto tem como objetivo a criação de um website básico utilizando apenas **HTML**, seguindo as tags aprendidas durante as aulas práticas. O foco é estruturar corretamente o conteúdo e aplicar as principais tags HTML para formatação de texto, listas, links e outros elementos fundamentais.
